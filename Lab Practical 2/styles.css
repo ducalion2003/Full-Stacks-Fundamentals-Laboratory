@@ -1,0 +1,16 @@
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #131212;
+}
+
+nav a {
+    text-decoration: none;
+    color: #131212;
+    margin-right: 60px;
+}
